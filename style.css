@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding-top: 56px;
+}
+
+.hero {
+  height: 100vh;
+  background: linear-gradient(to right, #1d2671, #c33764);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero span {
+  color: #ffd700;
+}
+
+.section {
+  padding: 60px 0;
+}
+
+.card {
+  margin-bottom: 20px;
+}
